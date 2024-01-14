@@ -1,0 +1,132 @@
+[01-Sep-2023 21:52:01 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:03 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:05 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:10 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:11 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:11 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
+[01-Sep-2023 21:52:24 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'so_db'@'localhost' (using password: YES) in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php:8
+Stack trace:
+#0 /home/rajahoki98newsit/public_html/admin/modul/koneksi.php(8): mysqli_connect('localhost:3306', 'so_db', 'ZUYASRZRS.75', 'so_db')
+#1 /home/rajahoki98newsit/public_html/index.php(3): include_once('/home/rajahoki9...')
+#2 {main}
+  thrown in /home/rajahoki98newsit/public_html/admin/modul/koneksi.php on line 8
